@@ -1,0 +1,8 @@
+Name :kk	Date :4
+Stations :M-A1
+Class number :2
+Ticket price :120
+No. of seats :2
+Total price for seats :240
+Canceled Tickets.
+--------------------------------------------------------------------------

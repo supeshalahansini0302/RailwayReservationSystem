@@ -1,0 +1,8 @@
+Name :sha	Date :28/02/2022
+Stations :A-M
+Class number :3
+Ticket price :210
+No. of seats :1
+Total price for seats :210
+Valid Tickets.
+--------------------------------------------------------------------------
